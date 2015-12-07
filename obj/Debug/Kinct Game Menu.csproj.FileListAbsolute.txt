@@ -1,0 +1,26 @@
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\bin\AnyCPU\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\MainWindow.baml
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\MainWindow.g.cs
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\App.g.cs
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.GamedNeededWindow.resources
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\Kinct Game Menu.csproj.GenerateResource.Cache
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Jesús\Desktop\Práctica 2 NPI\obj\Debug\Kinct Game Menu.csprojResolveAssemblyReference.cache
